@@ -13,7 +13,7 @@ body {
   }
   
   #logo-img {
-    background: url('../images/restaurant-logo_large.png') no-repeat;
+    background: url('../images/Logo.png') ;
     width: 150px;
     height: 150px;
     margin: 10px 15px 10px 0;
@@ -25,7 +25,7 @@ body {
   
   .navbar-brand h1 { /* Restaurant name */
     font-family: 'Lora', serif;
-    color: #557c3e;
+    color: #ad5fa3;
     font-size: 1.5em;
     text-transform: uppercase;
     font-weight: bold;
@@ -176,7 +176,7 @@ body {
 
   /*HOME PAGE*/
   .container .jumbotron {
-    background: url('../images/jumbotron_992.jpg') no-repeat;
+    background: url('../images/Logo.png') no-repeat;
     height: 558px;
   }
   /*END HOME PAGE*/
@@ -186,7 +186,7 @@ body {
 @media (min-width: 768px) and (max-width: 991px) {
   /*HOME PAGE*/
   .container .jumbotron {
-    background: url('../images/jumbotron_768.jpg') no-repeat;
+    background: url('../images/Logo.png') no-repeat;
     height: 432px;
   }
   /*END HOME PAGE*/
